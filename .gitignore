@@ -3,3 +3,7 @@ labels1/
 labels.zip
 open/
 open.zip
+*.png
+*.txt
+test/
+test2/
